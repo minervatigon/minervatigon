@@ -18,6 +18,11 @@ Throughout my academic journey, I have worked on various projects, including:
 - 🔍 Enhancing my knowledge of software requirements engineering and data processing.
 - 🚀 Always eager to learn more about new technologies and best practices in software development.
 
+### Contact
+- **Email:** minervatigon@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/feed/  
+- **GitHub:** https://github.com/minervatigon
+
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 
